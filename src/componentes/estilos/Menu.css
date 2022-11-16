@@ -1,0 +1,18 @@
+.mainMenu {
+    background-color: #331e6d;
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1 {
+    margin-left: 15px;
+}
+
+#logo {
+    cursor: pointer;
+}
+
+#logo span {
+    color: #ffcf31;
+    position: relative;
+    top: 7px;
+}
